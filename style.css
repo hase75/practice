@@ -15,4 +15,23 @@ h2 {
 p {
   line-height: 1.7;
   text-align: justify;
+  color: rgba(10, 130, 165, .8);
+}
+
+div {
+  background: #0bd;
+  padding: 40px;
+  margin: 50px;
+}
+
+.container{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.item {
+  background: #0bd;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
 }
