@@ -1,0 +1,18 @@
+html {
+  font-size: 100%;
+}
+
+h1 {
+  font-family: serif;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+}
+
+p {
+  line-height: 1.7;
+  text-align: justify;
+}
